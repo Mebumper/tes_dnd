@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "content": "What is 2 + 2?",
+      "options": [
+        { "id": "opt1", "content": "4", "order": 0 },
+        { "id": "opt2", "content": "5", "order": 1 },
+        { "id": "opt3", "content": "6", "order": 2 },
+        { "id": "opt4", "content": "3", "order": 3 }
+      ],
+      "correctAnswerId": "opt1"
+    },
+    {
+      "id": 2,
+      "content": "Which planet is closest to the sun?",
+      "options": [
+        { "id": "opt5", "content": "Mars", "order": 0 },
+        { "id": "opt6", "content": "Venus", "order": 1 },
+        { "id": "opt7", "content": "Mercury", "order": 2 },
+        { "id": "opt8", "content": "Earth", "order": 3 }
+      ],
+      "correctAnswerId": "opt7"
+    },
+    {
+      "id": 3,
+      "content": "What is the capital of France?",
+      "options": [
+        { "id": "opt9", "content": "Berlin", "order": 0 },
+        { "id": "opt10", "content": "Paris", "order": 1 },
+        { "id": "opt11", "content": "Rome", "order": 2 },
+        { "id": "opt12", "content": "Madrid", "order": 3 }
+      ],
+      "correctAnswerId": "opt10"
+    },
+    {
+      "id": 4,
+      "content": "Who painted the Mona Lisa?",
+      "options": [
+        { "id": "opt13", "content": "Leonardo da Vinci", "order": 0 },
+        { "id": "opt14", "content": "Pablo Picasso", "order": 1 },
+        { "id": "opt15", "content": "Vincent van Gogh", "order": 2 },
+        { "id": "opt16", "content": "Michelangelo", "order": 3 }
+      ],
+      "correctAnswerId": "opt13"
+    },
+    {
+      "id": 5,
+      "content": "What is the largest mammal in the world?",
+      "options": [
+        { "id": "opt17", "content": "Elephant", "order": 0 },
+        { "id": "opt18", "content": "Giraffe", "order": 1 },
+        { "id": "opt19", "content": "Blue whale", "order": 2 },
+        { "id": "opt20", "content": "Hippopotamus", "order": 3 }
+      ],
+      "correctAnswerId": "opt19"
+    }
+  ]
+}
